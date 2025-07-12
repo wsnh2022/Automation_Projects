@@ -1,0 +1,3 @@
+# dplyr Operations
+library(dplyr)
+data %>% filter(condition) %>% mutate(new_col = a + b)

@@ -1,0 +1,2 @@
+=VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+=SUMIF(range, criteria, [sum_range])

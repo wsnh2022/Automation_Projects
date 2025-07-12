@@ -1,0 +1,2 @@
+-- SQL Window Functions
+SELECT *, ROW_NUMBER() OVER (PARTITION BY column1 ORDER BY column2) AS row_num FROM table;
